@@ -1,4 +1,4 @@
-FROM elixir:1.13.4-alpine
+FROM elixir:1.17.2-alpine
 
 COPY . .
 
